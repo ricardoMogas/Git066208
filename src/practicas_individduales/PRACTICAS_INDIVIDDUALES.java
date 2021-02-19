@@ -9,6 +9,7 @@ public class PRACTICAS_INDIVIDDUALES {
         
         System.out.println("Bienvenido, es hora de Programas uwu");
         int matricula=66208;
+        int pedroVale=2;
         String wafle = new String(); 
         Scanner read = new Scanner (System.in);
         String dataRead[][] = new String[3][0]; 
